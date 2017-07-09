@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    if (jquery) {
+    if (jQuery) {
         alert('Hello People!');
     }
         else {
